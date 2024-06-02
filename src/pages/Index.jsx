@@ -24,7 +24,7 @@ const blogPosts = [
 
 const Index = () => {
   return (
-    <Container maxW="container.lg" py={8}>
+    <Container maxW="container.lg" py={8} bg="#f7f7f7">
       <Box as="header" mb={8}>
         <Heading as="h1" size="2xl" textAlign="center" mb={4}>
           No-Code, Automation & AI Blog
